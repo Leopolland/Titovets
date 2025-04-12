@@ -1,2 +1,2 @@
 first commit in dir num one!
-Text in second file
+Text in first txt
